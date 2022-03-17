@@ -66,6 +66,10 @@ P. A. Parrilo, Mathematical Programming Ser. B, Vol. 96, No.2, pp. 293-320, 2003
 * *Minimizing polynomial functions*
 P. A. Parrilo, B. Sturmfels. [arXiv](https://arxiv.org/abs/math.OC/0103170).
 
+* *SOSTOOLS MATLAB
+For more information and examples concerning sum-of-squares programming, please see [Getting started with Sum of Squares](https://sums-of-squares.github.io/sos/index.html#matlab) and the [SOSTOOLS user's guide](docs/sostools.pdf).
+
+
  
 ## Feedback
 For comments, bug reports, encouragement, suggestions, complaints, etc., please send email to: leonardo-felipe.toso@student-cs.fr.
